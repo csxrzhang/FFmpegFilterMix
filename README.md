@@ -1,9 +1,14 @@
 # FFmpegFilterMix
  version: 4.3.1,
+ 
  Input: 2 mp3 files,
+ 
  the chennels mp3: 1,
+ 
  the sampling: 8000
+ 
  ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+ 
   built with gcc 4.8.5 (GCC) 20150623 (Red Hat 4.8.5-39)
   configuration: --disable-debug --enable-libx264 --enable-libx265 --enable-gpl --enable-shared --prefix=/usr/local/ffmpeg
   libavutil      56. 51.100 / 56. 51.100
